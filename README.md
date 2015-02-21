@@ -4,6 +4,8 @@ Uploaded content for Coursera "Getting and Cleaning Data" Course Project
 
 Includes run_analysis.R script for cleaning and summarizing raw Samsung data.
 
+The Source Data provided for this project must be in your working directory for this to work.
+
 ##The script does the following with the raw data - 
 
  1.Uses the variables provided in the "features.txt" file to extract mean and standard deviations for all measurements across all observations, and adds column names for these variables.
